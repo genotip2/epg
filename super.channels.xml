@@ -1,5 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <channels>
+  <channel site="cubmu.com" lang="id" xmltv_id="CNBCIndonesia.id" site_id="4028c68574537fcd0174be4b82c758dc">CNBC Indonesia</channel>
+  <channel site="cubmu.com" lang="id" xmltv_id="CNNIndonesia.id" site_id="4028c68574537fcd0174be4997e958db">CNN Indonesia</channel>
   <channel site="firstmedia.com" lang="en" xmltv_id="" site_id="3">First Llifestyle</channel>
   <channel site="firstmedia.com" lang="en" xmltv_id="" site_id="23">Kairos</channel>
   <channel site="firstmedia.com" lang="en" xmltv_id="" site_id="24">Sekolah Pelita Harapan Channel - SPH</channel>
