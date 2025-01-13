@@ -138,4 +138,5 @@
   <channel site="mncvision.id" lang="id" xmltv_id="VisionPrimeHD.id" site_id="1">Vision Prime HD</channel>
   <channel site="mncvision.id" lang="id" xmltv_id="ZeeBioskop.id" site_id="23">Zee Bioskop</channel>
   <channel site="mncvision.id" lang="id" xmltv_id="ZooMoo.sg" site_id="39">Zoomoo</channel>
+  <channel site="guidatv.sky.it" lang="it" xmltv_id="SuperTennisHD.it" site_id="DTH#6000">SuperTennis HD</channel>
 </channels>
