@@ -21,7 +21,7 @@ jobs:
         run: |
           npm run channels:lint
       - name: superguide
-        run: npm run grab -- --channels=super.channels.xml --output=super.guide.xml --maxConnections=50 --gzip
+        run: npm run grab -- --channels=super.channels.xml --output=super.guide.xml --maxConnections=1 --gzip
       - uses: actions4git/add-commit-push@v1
       - name: Publish Release
         uses: ncipollo/release-action@v1
