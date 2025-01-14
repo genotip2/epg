@@ -1,5 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <channels>
+  <channel site="indihometv.com" lang="id" xmltv_id="CitraDangdut.id" site_id="citradangdut">Citra Dangdut</channel>
+  <channel site="indihometv.com" lang="id" xmltv_id="CitraDrama.id" site_id="cdrama">Citra Drama</channel>
   <channel site="indihometv.com" lang="id" xmltv_id="DiscoveryAsia.sg" site_id="discoveryasia">Discovery Asia</channel>
   <channel site="indihometv.com" lang="id" xmltv_id="HGTVAsia.us" site_id="hgtv">HGTV</channel>
   <channel site="indihometv.com" lang="id" xmltv_id="MentariTV.id" site_id="mentaritv">Mentari TV</channel>
