@@ -5,6 +5,7 @@
   <channel site="indihometv.com" lang="id" xmltv_id="DiscoveryAsia.sg" site_id="discoveryasia">Discovery Asia</channel>
   <channel site="indihometv.com" lang="id" xmltv_id="HGTVAsia.us" site_id="hgtv">HGTV</channel>
   <channel site="indihometv.com" lang="id" xmltv_id="MentariTV.id" site_id="mentaritv">Mentari TV</channel>
+  <channel site="indihometv.com" lang="id" xmltv_id="RodjaTV.id" site_id="rodjatv">Rodja TV</channel>
   <channel site="cubmu.com" lang="id" xmltv_id="BioskopIndonesia.id" site_id="4028c68574537fcd0174be26e4325724">Bioskop Indonesia</channel>
   <channel site="cubmu.com" lang="id" xmltv_id="CNBCIndonesia.id" site_id="4028c68574537fcd0174be4b82c758dc">CNBC Indonesia</channel>
   <channel site="cubmu.com" lang="id" xmltv_id="CNNIndonesia.id" site_id="4028c68574537fcd0174be4997e958db">CNN Indonesia</channel>
