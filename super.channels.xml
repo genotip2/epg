@@ -18,6 +18,11 @@
   <channel site="firstmedia.com" lang="en" xmltv_id="EurosportAsia.fr" site_id="151">Eurosport</channel>
   <channel site="firstmedia.com" lang="en" xmltv_id="TLCSoutheastAsia.sg" site_id="72">The Learning Channel - TLC</channel>
   <channel site="firstmedia.com" lang="en" xmltv_id="WarnerTVAsia.us" site_id="313">Warner TV HD</channel>
+  <channel site="mewatch.sg" lang="en" xmltv_id="CinemaxAsia.sg" site_id="97155">Cinemax</channel>
+  <channel site="mewatch.sg" lang="en" xmltv_id="HBOAsia.sg" site_id="97137">HBO</channel>
+  <channel site="mewatch.sg" lang="en" xmltv_id="HBOFamilyAsia.sg" site_id="97147">HBO Family</channel>
+  <channel site="mewatch.sg" lang="en" xmltv_id="HBOHitsAsia.sg" site_id="97140">HBO Hits</channel>
+  <channel site="mewatch.sg" lang="en" xmltv_id="HBOSignatureAsia.sg" site_id="97146">HBO Signature</channel>
   <channel site="mncvision.id" lang="id" xmltv_id="ABCAustralia.au" site_id="350">ABC Australia</channel>
   <channel site="mncvision.id" lang="id" xmltv_id="AlJazeeraEnglish.qa" site_id="331">Al Jazeera English</channel>
   <channel site="mncvision.id" lang="id" xmltv_id="AnimaxAsia.sg" site_id="157">Animax</channel>
@@ -120,10 +125,5 @@
   <channel site="mncvision.id" lang="id" xmltv_id="VisionPrime.id" site_id="94">Vision Prime</channel>
   <channel site="mncvision.id" lang="id" xmltv_id="ZeeBioskop.id" site_id="23">Zee Bioskop</channel>
   <channel site="mncvision.id" lang="id" xmltv_id="ZooMoo.sg" site_id="39">Zoomoo</channel>
-  <channel site="starhubtvplus.com" lang="en" xmltv_id="CinemaxAsia.sg" site_id="fd510962-c830-490f-be97-0ecadf2bcc11">Cinemax HD</channel>
-  <channel site="starhubtvplus.com" lang="en" xmltv_id="HBOAsia.sg" site_id="f1e89c2d-232c-4204-8cf1-e3107ad6b8e8">HBO HD</channel>
-  <channel site="starhubtvplus.com" lang="en" xmltv_id="HBOFamilyAsia.sg" site_id="a162afe8-8990-4d43-8c9a-c29d844ba2fb">HBO Family HD</channel>
-  <channel site="starhubtvplus.com" lang="en" xmltv_id="HBOHitsAsia.sg" site_id="d27cd0f4-85c1-4c08-91cd-808643e7cec9">HBO Hits HD</channel>
-  <channel site="starhubtvplus.com" lang="en" xmltv_id="HBOSignatureAsia.sg" site_id="21184422-bbcd-4641-aeb6-fef337b5cc7a">HBO Signature HD</channel>
   <channel site="superguidatv.it" lang="it" xmltv_id="SuperTennis.it" site_id="supertennis/250">SuperTennis</channel>
 </channels>
