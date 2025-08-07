@@ -1,5 +1,9 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <channels>
+  <channel site="content.astro.com.my" lang="en" xmltv_id="CinemaxAsia.sg" site_id="337">CINEMAX HD</channel>
+  <channel site="content.astro.com.my" lang="en" xmltv_id="HBOAsia.sg" site_id="143">HBO HD</channel>
+  <channel site="content.astro.com.my" lang="en" xmltv_id="HBOFamilyAsia.sg" site_id="450">HBO Family</channel>
+  <channel site="content.astro.com.my" lang="en" xmltv_id="HBOHitsAsia.sg" site_id="449">HBO Hits</channel>
   <channel site="indihometv.com" lang="id" xmltv_id="CitraDangdut.id" site_id="citradangdut">Citra Dangdut</channel>
   <channel site="indihometv.com" lang="id" xmltv_id="CitraDrama.id" site_id="cdrama">Citra Drama</channel>
   <channel site="indihometv.com" lang="id" xmltv_id="DiscoveryAsia.sg" site_id="discoveryasia">Discovery Asia</channel>
@@ -18,11 +22,6 @@
   <channel site="firstmedia.com" lang="en" xmltv_id="EurosportAsia.fr" site_id="151">Eurosport</channel>
   <channel site="firstmedia.com" lang="en" xmltv_id="TLCSoutheastAsia.sg" site_id="72">The Learning Channel - TLC</channel>
   <channel site="firstmedia.com" lang="en" xmltv_id="WarnerTVAsia.us" site_id="313">Warner TV HD</channel>
-  <channel site="mewatch.sg" lang="en" xmltv_id="CinemaxAsia.sg" site_id="97155">Cinemax</channel>
-  <channel site="mewatch.sg" lang="en" xmltv_id="HBOAsia.sg" site_id="97137">HBO</channel>
-  <channel site="mewatch.sg" lang="en" xmltv_id="HBOFamilyAsia.sg" site_id="97147">HBO Family</channel>
-  <channel site="mewatch.sg" lang="en" xmltv_id="HBOHitsAsia.sg" site_id="97140">HBO Hits</channel>
-  <channel site="mewatch.sg" lang="en" xmltv_id="HBOSignatureAsia.sg" site_id="97146">HBO Signature</channel>
   <channel site="mncvision.id" lang="id" xmltv_id="ABCAustralia.au" site_id="350">ABC Australia</channel>
   <channel site="mncvision.id" lang="id" xmltv_id="AlJazeeraEnglish.qa" site_id="331">Al Jazeera English</channel>
   <channel site="mncvision.id" lang="id" xmltv_id="AnimaxAsia.sg" site_id="157">Animax</channel>
