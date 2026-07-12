@@ -5,11 +5,11 @@
   <channel site="cubmu.com" lang="id" xmltv_id="CNNIndonesia.id" site_id="4028c68574537fcd0174be4997e958db">CNN Indonesia</channel>
   <channel site="cubmu.com" lang="id" xmltv_id="JTV.id" site_id="4028c6857e04fca5017ec407d96b7362">jtv</channel>
   <channel site="cubmu.com" lang="id" xmltv_id="RajawaliTV.id" site_id="4028c68574537fcd0174be5cd0b15903">rtv</channel>
-  <channel site="maxstream.tv" site_id="0_7vx2webw" lang="id" xmltv_id="CinemaxAsia.sg@SD">Cinemax</channel>
-  <channel site="maxstream.tv" site_id="0_xgdr0qbd" lang="id" xmltv_id="HBOAsia.sg@SD">HBO</channel>
-  <channel site="maxstream.tv" site_id="0_qqui53si" lang="id" xmltv_id="HBOFamilyAsia.sg@SD">HBO Family</channel>
-  <channel site="maxstream.tv" site_id="0_k7eh4erk" lang="id" xmltv_id="HBOHitsAsia.sg@SD">HBO Hits</channel>
-  <channel site="maxstream.tv" site_id="0_s6bo567h" lang="id" xmltv_id="HBOSignatureAsia.sg@SD">HBO Signature</channel>
+  <channel site="nowplayer.now.com" site_id="113" lang="en" xmltv_id="CinemaxAsia.sg@SD">CINEMAX</channel>
+  <channel site="nowplayer.now.com" site_id="115" lang="en" xmltv_id="HBOAsia.sg@SD">HBO</channel>
+  <channel site="nowplayer.now.com" site_id="112" lang="en" xmltv_id="HBOFamilyAsia.sg@SD">HBO Family</channel>
+  <channel site="nowplayer.now.com" site_id="111" lang="en" xmltv_id="HBOHitsAsia.sg@SD">HBO Hits</channel>
+  <channel site="nowplayer.now.com" site_id="114" lang="en" xmltv_id="HBOSignatureAsia.sg@SD">HBO Signature</channel>
   <channel site="mncvision.id" site_id="90" lang="id" xmltv_id="">Hanacaraka TV</channel>
   <channel site="mncvision.id" site_id="350" lang="id" xmltv_id="ABCAustralia.au@SD">ABC Australia</channel>
   <channel site="mncvision.id" site_id="331" lang="id" xmltv_id="AlJazeera.qa@English">Al Jazeera English</channel>
