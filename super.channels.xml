@@ -124,5 +124,5 @@
   <channel site="mncvision.id" site_id="23" lang="id" xmltv_id="ZeeBioskop.id@SD">Zee Bioskop</channel>
   <channel site="mncvision.id" site_id="39" lang="id" xmltv_id="ZooMoo.sg@SD">Zoomoo</channel>
   <channel site="moji.id" site_id="0" lang="id" xmltv_id="Moji.id@SD">Moji</channel>
-  <channel site="superguidatv.it" lang="it" xmltv_id="SuperTennis.it" site_id="supertennis/250">SuperTennis</channel>
+  <channel site="superguidatv.it" site_id="supertennis/250" lang="it" xmltv_id="SuperTennis.it@SD">SuperTennis</channel>
 </channels>
