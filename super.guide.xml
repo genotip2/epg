@@ -4,7 +4,7 @@
 <channel id="CNNIndonesia.id"><display-name>CNN Indonesia</display-name><icon src="https://i.imgur.com/l0JyOrm.png"/></channel>
 <channel id="JTV.id"><display-name>jtv</display-name><icon src="https://i.imgur.com/mIDWIQk.png"/></channel>
 <channel id="RajawaliTV.id"><display-name>rtv</display-name><icon src="https://i.imgur.com/dlsv1sl.png"/></channel>
-<channel id="CinemaxAsia.sg@SD"><display-name>Cinemax</display-name><icon src="https://i.imgur.com/c8crJfA.png"/></channel>
+<channel id="CinemaxAsia.sg@SD"><display-name>CINEMAX</display-name><icon src="https://i.imgur.com/c8crJfA.png"/></channel>
 <channel id="HBOAsia.sg@SD"><display-name>HBO</display-name><icon src="https://upload.wikimedia.org/wikipedia/commons/thumb/d/de/HBO_logo.svg/960px-HBO_logo.svg.png"/></channel>
 <channel id="HBOFamilyAsia.sg@SD"><display-name>HBO Family</display-name><icon src="https://upload.wikimedia.org/wikipedia/en/thumb/d/d2/HBO_Family_Asia_logo.svg/960px-HBO_Family_Asia_logo.svg.png"/></channel>
 <channel id="HBOHitsAsia.sg@SD"><display-name>HBO Hits</display-name><icon src="https://i.imgur.com/CTjmocc.png"/></channel>
@@ -701,101 +701,6 @@
 <programme start="20260713150500 +0000" stop="20260713155500 +0000" channel="BBCEarth.uk@AsiaHD"><title lang="id">Portillo&apos;s Long Weekends, Ep 2</title><episode-num system="xmltv_ns">0.1.0/1</episode-num><episode-num system="onscreen">S01E02</episode-num></programme>
 <programme start="20260713155500 +0000" stop="20260713165000 +0000" channel="BBCEarth.uk@AsiaHD"><title lang="id">The Mating Game S1, Ep 2</title><episode-num system="xmltv_ns">0.1.0/1</episode-num><episode-num system="onscreen">S01E02</episode-num></programme>
 <programme start="20260713165000 +0000" stop="20260713175000 +0000" channel="BBCEarth.uk@AsiaHD"><title lang="id">The Great Wall With... S1, Ep 2</title><episode-num system="xmltv_ns">0.1.0/1</episode-num><episode-num system="onscreen">S01E02</episode-num></programme>
-<programme start="20260711170000 +0000" stop="20260711173000 +0000" channel="BBCNews.uk@AsiaPacific"><title lang="id">BBC News</title></programme>
-<programme start="20260711173000 +0000" stop="20260711180000 +0000" channel="BBCNews.uk@AsiaPacific"><title lang="id">Focus On Africa: Conversation</title></programme>
-<programme start="20260711180000 +0000" stop="20260711183000 +0000" channel="BBCNews.uk@AsiaPacific"><title lang="id">BBC News</title></programme>
-<programme start="20260711183000 +0000" stop="20260711190000 +0000" channel="BBCNews.uk@AsiaPacific"><title lang="id">Tech Now</title></programme>
-<programme start="20260711190000 +0000" stop="20260711193000 +0000" channel="BBCNews.uk@AsiaPacific"><title lang="id">BBC News</title></programme>
-<programme start="20260711193000 +0000" stop="20260711200000 +0000" channel="BBCNews.uk@AsiaPacific"><title lang="id">The Travel Show</title></programme>
-<programme start="20260711200000 +0000" stop="20260711210000 +0000" channel="BBCNews.uk@AsiaPacific"><title lang="id">BBC News</title></programme>
-<programme start="20260711210000 +0000" stop="20260711220000 +0000" channel="BBCNews.uk@AsiaPacific"><title lang="id">BBC News</title></programme>
-<programme start="20260711220000 +0000" stop="20260711223000 +0000" channel="BBCNews.uk@AsiaPacific"><title lang="id">BBC News</title></programme>
-<programme start="20260711223000 +0000" stop="20260711230000 +0000" channel="BBCNews.uk@AsiaPacific"><title lang="id">Talking Business</title></programme>
-<programme start="20260711230000 +0000" stop="20260711233000 +0000" channel="BBCNews.uk@AsiaPacific"><title lang="id">BBC News</title></programme>
-<programme start="20260711233000 +0000" stop="20260712000000 +0000" channel="BBCNews.uk@AsiaPacific"><title lang="id">The Media Show</title></programme>
-<programme start="20260712000000 +0000" stop="20260712003000 +0000" channel="BBCNews.uk@AsiaPacific"><title lang="id">BBC News</title></programme>
-<programme start="20260712003000 +0000" stop="20260712010000 +0000" channel="BBCNews.uk@AsiaPacific"><title lang="id">TechXplore: World Cup</title></programme>
-<programme start="20260712010000 +0000" stop="20260712013000 +0000" channel="BBCNews.uk@AsiaPacific"><title lang="id">BBC News</title></programme>
-<programme start="20260712013000 +0000" stop="20260712020000 +0000" channel="BBCNews.uk@AsiaPacific"><title lang="id">What Happened At Somme?</title></programme>
-<programme start="20260712020000 +0000" stop="20260712023000 +0000" channel="BBCNews.uk@AsiaPacific"><title lang="id">BBC News</title></programme>
-<programme start="20260712023000 +0000" stop="20260712030000 +0000" channel="BBCNews.uk@AsiaPacific"><title lang="id">Clive Myrie&apos;s Caribbean Adv.</title></programme>
-<programme start="20260712030000 +0000" stop="20260712033000 +0000" channel="BBCNews.uk@AsiaPacific"><title lang="id">BBC News</title></programme>
-<programme start="20260712033000 +0000" stop="20260712040000 +0000" channel="BBCNews.uk@AsiaPacific"><title lang="id">The Climate Question</title></programme>
-<programme start="20260712040000 +0000" stop="20260712043000 +0000" channel="BBCNews.uk@AsiaPacific"><title lang="id">BBC News</title></programme>
-<programme start="20260712043000 +0000" stop="20260712050000 +0000" channel="BBCNews.uk@AsiaPacific"><title lang="id">China&apos;s Greatest Treasures</title></programme>
-<programme start="20260712050000 +0000" stop="20260712053000 +0000" channel="BBCNews.uk@AsiaPacific"><title lang="id">BBC News</title></programme>
-<programme start="20260712053000 +0000" stop="20260712060000 +0000" channel="BBCNews.uk@AsiaPacific"><title lang="id">Talking Business</title></programme>
-<programme start="20260712060000 +0000" stop="20260712063000 +0000" channel="BBCNews.uk@AsiaPacific"><title lang="id">BBC News</title></programme>
-<programme start="20260712063000 +0000" stop="20260712070000 +0000" channel="BBCNews.uk@AsiaPacific"><title lang="id">The Travel Show</title></programme>
-<programme start="20260712070000 +0000" stop="20260712073000 +0000" channel="BBCNews.uk@AsiaPacific"><title lang="id">BBC News</title></programme>
-<programme start="20260712073000 +0000" stop="20260712080000 +0000" channel="BBCNews.uk@AsiaPacific"><title lang="id">TechXplore: World Cup</title></programme>
-<programme start="20260712080000 +0000" stop="20260712090000 +0000" channel="BBCNews.uk@AsiaPacific"><title lang="id">BBC News</title></programme>
-<programme start="20260712090000 +0000" stop="20260712093000 +0000" channel="BBCNews.uk@AsiaPacific"><title lang="id">BBC News</title></programme>
-<programme start="20260712093000 +0000" stop="20260712100000 +0000" channel="BBCNews.uk@AsiaPacific"><title lang="id">What Happened At Somme?</title></programme>
-<programme start="20260712100000 +0000" stop="20260712103000 +0000" channel="BBCNews.uk@AsiaPacific"><title lang="id">BBC News</title></programme>
-<programme start="20260712103000 +0000" stop="20260712104500 +0000" channel="BBCNews.uk@AsiaPacific"><title lang="id">The President&apos;s Path</title></programme>
-<programme start="20260712104500 +0000" stop="20260712110000 +0000" channel="BBCNews.uk@AsiaPacific"><title lang="id">BBC News</title></programme>
-<programme start="20260712110000 +0000" stop="20260712113000 +0000" channel="BBCNews.uk@AsiaPacific"><title lang="id">BBC News</title></programme>
-<programme start="20260712113000 +0000" stop="20260712120000 +0000" channel="BBCNews.uk@AsiaPacific"><title lang="id">The Media Show</title></programme>
-<programme start="20260712120000 +0000" stop="20260712123000 +0000" channel="BBCNews.uk@AsiaPacific"><title lang="id">BBC News</title></programme>
-<programme start="20260712123000 +0000" stop="20260712130000 +0000" channel="BBCNews.uk@AsiaPacific"><title lang="id">The Travel Show</title></programme>
-<programme start="20260712130000 +0000" stop="20260712133000 +0000" channel="BBCNews.uk@AsiaPacific"><title lang="id">BBC News</title></programme>
-<programme start="20260712133000 +0000" stop="20260712140000 +0000" channel="BBCNews.uk@AsiaPacific"><title lang="id">Tech Now</title></programme>
-<programme start="20260712140000 +0000" stop="20260712143000 +0000" channel="BBCNews.uk@AsiaPacific"><title lang="id">BBC News</title></programme>
-<programme start="20260712143000 +0000" stop="20260712150000 +0000" channel="BBCNews.uk@AsiaPacific"><title lang="id">China&apos;s Greatest Treasures</title></programme>
-<programme start="20260712150000 +0000" stop="20260712153000 +0000" channel="BBCNews.uk@AsiaPacific"><title lang="id">BBC News</title></programme>
-<programme start="20260712153000 +0000" stop="20260712160000 +0000" channel="BBCNews.uk@AsiaPacific"><title lang="id">The Climate Question</title></programme>
-<programme start="20260712160000 +0000" stop="20260712170000 +0000" channel="BBCNews.uk@AsiaPacific"><title lang="id">BBC News</title></programme>
-<programme start="20260712170000 +0000" stop="20260712173000 +0000" channel="BBCNews.uk@AsiaPacific"><title lang="id">BBC News</title></programme>
-<programme start="20260712173000 +0000" stop="20260712180000 +0000" channel="BBCNews.uk@AsiaPacific"><title lang="id">Talking Business</title></programme>
-<programme start="20260712180000 +0000" stop="20260712183000 +0000" channel="BBCNews.uk@AsiaPacific"><title lang="id">BBC News</title></programme>
-<programme start="20260712183000 +0000" stop="20260712190000 +0000" channel="BBCNews.uk@AsiaPacific"><title lang="id">What Happened At Somme?</title></programme>
-<programme start="20260712190000 +0000" stop="20260712193000 +0000" channel="BBCNews.uk@AsiaPacific"><title lang="id">BBC News</title></programme>
-<programme start="20260712193000 +0000" stop="20260712200000 +0000" channel="BBCNews.uk@AsiaPacific"><title lang="id">TechXplore: World Cup</title></programme>
-<programme start="20260712200000 +0000" stop="20260712210000 +0000" channel="BBCNews.uk@AsiaPacific"><title lang="id">BBC News</title></programme>
-<programme start="20260712210000 +0000" stop="20260712220000 +0000" channel="BBCNews.uk@AsiaPacific"><title lang="id">BBC News</title></programme>
-<programme start="20260712220000 +0000" stop="20260712223000 +0000" channel="BBCNews.uk@AsiaPacific"><title lang="id">BBC News</title></programme>
-<programme start="20260712223000 +0000" stop="20260712230000 +0000" channel="BBCNews.uk@AsiaPacific"><title lang="id">China&apos;s Greatest Treasures</title></programme>
-<programme start="20260712230000 +0000" stop="20260712233000 +0000" channel="BBCNews.uk@AsiaPacific"><title lang="id">BBC News</title></programme>
-<programme start="20260712233000 +0000" stop="20260713000000 +0000" channel="BBCNews.uk@AsiaPacific"><title lang="id">The Climate Question</title></programme>
-<programme start="20260713000000 +0000" stop="20260713003000 +0000" channel="BBCNews.uk@AsiaPacific"><title lang="id">BBC News</title></programme>
-<programme start="20260713003000 +0000" stop="20260713010000 +0000" channel="BBCNews.uk@AsiaPacific"><title lang="id">What Happened At Somme?</title></programme>
-<programme start="20260713010000 +0000" stop="20260713013000 +0000" channel="BBCNews.uk@AsiaPacific"><title lang="id">Newsday</title></programme>
-<programme start="20260713013000 +0000" stop="20260713014500 +0000" channel="BBCNews.uk@AsiaPacific"><title lang="id">Business Today</title></programme>
-<programme start="20260713014500 +0000" stop="20260713020000 +0000" channel="BBCNews.uk@AsiaPacific"><title lang="id">Newsday</title></programme>
-<programme start="20260713020000 +0000" stop="20260713023000 +0000" channel="BBCNews.uk@AsiaPacific"><title lang="id">Newsday</title></programme>
-<programme start="20260713023000 +0000" stop="20260713024500 +0000" channel="BBCNews.uk@AsiaPacific"><title lang="id">Business Today</title></programme>
-<programme start="20260713024500 +0000" stop="20260713030000 +0000" channel="BBCNews.uk@AsiaPacific"><title lang="id">Newsday</title></programme>
-<programme start="20260713030000 +0000" stop="20260713033000 +0000" channel="BBCNews.uk@AsiaPacific"><title lang="id">Newsday</title></programme>
-<programme start="20260713033000 +0000" stop="20260713034500 +0000" channel="BBCNews.uk@AsiaPacific"><title lang="id">Business Today</title></programme>
-<programme start="20260713034500 +0000" stop="20260713040000 +0000" channel="BBCNews.uk@AsiaPacific"><title lang="id">Newsday</title></programme>
-<programme start="20260713040000 +0000" stop="20260713043000 +0000" channel="BBCNews.uk@AsiaPacific"><title lang="id">BBC News</title></programme>
-<programme start="20260713043000 +0000" stop="20260713050000 +0000" channel="BBCNews.uk@AsiaPacific"><title lang="id">Business Today</title></programme>
-<programme start="20260713050000 +0000" stop="20260713053000 +0000" channel="BBCNews.uk@AsiaPacific"><title lang="id">BBC News</title></programme>
-<programme start="20260713053000 +0000" stop="20260713060000 +0000" channel="BBCNews.uk@AsiaPacific"><title lang="id">Business Today</title></programme>
-<programme start="20260713060000 +0000" stop="20260713063000 +0000" channel="BBCNews.uk@AsiaPacific"><title lang="id">BBC News</title></programme>
-<programme start="20260713063000 +0000" stop="20260713070000 +0000" channel="BBCNews.uk@AsiaPacific"><title lang="id">Business Today</title></programme>
-<programme start="20260713070000 +0000" stop="20260713073000 +0000" channel="BBCNews.uk@AsiaPacific"><title lang="id">BBC News</title></programme>
-<programme start="20260713073000 +0000" stop="20260713080000 +0000" channel="BBCNews.uk@AsiaPacific"><title lang="id">BBC News</title></programme>
-<programme start="20260713080000 +0000" stop="20260713083000 +0000" channel="BBCNews.uk@AsiaPacific"><title lang="id">BBC News</title></programme>
-<programme start="20260713083000 +0000" stop="20260713090000 +0000" channel="BBCNews.uk@AsiaPacific"><title lang="id">BBC News</title></programme>
-<programme start="20260713090000 +0000" stop="20260713093000 +0000" channel="BBCNews.uk@AsiaPacific"><title lang="id">BBC News</title></programme>
-<programme start="20260713093000 +0000" stop="20260713100000 +0000" channel="BBCNews.uk@AsiaPacific"><title lang="id">BBC News</title></programme>
-<programme start="20260713100000 +0000" stop="20260713103000 +0000" channel="BBCNews.uk@AsiaPacific"><title lang="id">BBC News</title></programme>
-<programme start="20260713103000 +0000" stop="20260713104500 +0000" channel="BBCNews.uk@AsiaPacific"><title lang="id">Business Today</title></programme>
-<programme start="20260713104500 +0000" stop="20260713110000 +0000" channel="BBCNews.uk@AsiaPacific"><title lang="id">BBC News</title></programme>
-<programme start="20260713110000 +0000" stop="20260713113000 +0000" channel="BBCNews.uk@AsiaPacific"><title lang="id">BBC News Now</title></programme>
-<programme start="20260713113000 +0000" stop="20260713120000 +0000" channel="BBCNews.uk@AsiaPacific"><title lang="id">BBC News Now</title></programme>
-<programme start="20260713120000 +0000" stop="20260713123000 +0000" channel="BBCNews.uk@AsiaPacific"><title lang="id">BBC News Now</title></programme>
-<programme start="20260713123000 +0000" stop="20260713130000 +0000" channel="BBCNews.uk@AsiaPacific"><title lang="id">BBC News Now</title></programme>
-<programme start="20260713130000 +0000" stop="20260713133000 +0000" channel="BBCNews.uk@AsiaPacific"><title lang="id">BBC News Now</title></programme>
-<programme start="20260713133000 +0000" stop="20260713134500 +0000" channel="BBCNews.uk@AsiaPacific"><title lang="id">Business Today: NYSE</title></programme>
-<programme start="20260713134500 +0000" stop="20260713140000 +0000" channel="BBCNews.uk@AsiaPacific"><title lang="id">BBC News Now</title></programme>
-<programme start="20260713140000 +0000" stop="20260713143000 +0000" channel="BBCNews.uk@AsiaPacific"><title lang="id">Verified Live</title></programme>
-<programme start="20260713143000 +0000" stop="20260713150000 +0000" channel="BBCNews.uk@AsiaPacific"><title lang="id">Verified Live</title></programme>
-<programme start="20260713150000 +0000" stop="20260713153000 +0000" channel="BBCNews.uk@AsiaPacific"><title lang="id">Verified Live</title></programme>
-<programme start="20260713153000 +0000" stop="20260713154500 +0000" channel="BBCNews.uk@AsiaPacific"><title lang="id">Business Today</title></programme>
-<programme start="20260713154500 +0000" stop="20260713160000 +0000" channel="BBCNews.uk@AsiaPacific"><title lang="id">Verified Live</title></programme>
 <programme start="20260711171000 +0000" stop="20260711172000 +0000" channel="beINSports1.qa@Indonesia"><title lang="id">LaLiga Goals Galore 2024/25</title></programme>
 <programme start="20260711172000 +0000" stop="20260711185500 +0000" channel="beINSports1.qa@Indonesia"><title lang="id">FIA World Endurance C&apos;ship (L)</title></programme>
 <programme start="20260711185500 +0000" stop="20260711191000 +0000" channel="beINSports1.qa@Indonesia"><title lang="id">Stars Of The Cup: Pedri</title></programme>
@@ -822,29 +727,6 @@
 <programme start="20260712121500 +0000" stop="20260712134500 +0000" channel="beINSports1.qa@Indonesia"><title lang="id">ADAC GT Masters 2026 (L)</title></programme>
 <programme start="20260712134500 +0000" stop="20260712140000 +0000" channel="beINSports1.qa@Indonesia"><title lang="id">Chasing The Dream: Silverstone</title></programme>
 <programme start="20260712140000 +0000" stop="20260712180000 +0000" channel="beINSports1.qa@Indonesia"><title lang="id">FIA World Endurance C&apos;ship (L)</title></programme>
-<programme start="20260712180000 +0000" stop="20260712210000 +0000" channel="beINSports1.qa@Indonesia"><title lang="id">FIA World Endurance C&apos;ship (L)</title></programme>
-<programme start="20260712210000 +0000" stop="20260712213000 +0000" channel="beINSports1.qa@Indonesia"><title lang="id">Fastzone 2026, Ep 13</title><episode-num system="xmltv_ns">0.12.0/1</episode-num><episode-num system="onscreen">S01E13</episode-num></programme>
-<programme start="20260712213000 +0000" stop="20260712220000 +0000" channel="beINSports1.qa@Indonesia"><title lang="id">Mini Match LaLiga: VIL Vs BAR</title></programme>
-<programme start="20260712220000 +0000" stop="20260712223000 +0000" channel="beINSports1.qa@Indonesia"><title lang="id">Mini Match LaLiga: ATH Vs ESP</title></programme>
-<programme start="20260712223000 +0000" stop="20260712230000 +0000" channel="beINSports1.qa@Indonesia"><title lang="id">Going Pro 2026, Ep 11</title><episode-num system="xmltv_ns">0.10.0/1</episode-num><episode-num system="onscreen">S01E11</episode-num></programme>
-<programme start="20260712230000 +0000" stop="20260713002000 +0000" channel="beINSports1.qa@Indonesia"><title lang="id">ADAC GT Masters 2026</title></programme>
-<programme start="20260713002000 +0000" stop="20260713005000 +0000" channel="beINSports1.qa@Indonesia"><title lang="id">Fastzone 2026, Ep 13</title><episode-num system="xmltv_ns">0.12.0/1</episode-num><episode-num system="onscreen">S01E13</episode-num></programme>
-<programme start="20260713005000 +0000" stop="20260713024500 +0000" channel="beINSports1.qa@Indonesia"><title lang="id">LaLiga 2025/26: BAR Vs ELC</title></programme>
-<programme start="20260713024500 +0000" stop="20260713032000 +0000" channel="beINSports1.qa@Indonesia"><title lang="id">FC Futures U12 Club: FLA Vs PSG</title></programme>
-<programme start="20260713032000 +0000" stop="20260713035500 +0000" channel="beINSports1.qa@Indonesia"><title lang="id">FC Futures U12 Club: BAR Vs BET</title></programme>
-<programme start="20260713035500 +0000" stop="20260713054000 +0000" channel="beINSports1.qa@Indonesia"><title lang="id">UYL 2025/26: SGE Vs SCP</title></programme>
-<programme start="20260713054000 +0000" stop="20260713064000 +0000" channel="beINSports1.qa@Indonesia"><title lang="id">FIA European Truck Racing 2026</title></programme>
-<programme start="20260713064000 +0000" stop="20260713071000 +0000" channel="beINSports1.qa@Indonesia"><title lang="id">FC Futures U12 Club: BAR Vs PSG</title></programme>
-<programme start="20260713071000 +0000" stop="20260713080500 +0000" channel="beINSports1.qa@Indonesia"><title lang="id">FC Futures U12 Club: FLA Vs BET</title></programme>
-<programme start="20260713080500 +0000" stop="20260713082000 +0000" channel="beINSports1.qa@Indonesia"><title lang="id">Chasing The Dream: Silverstone</title></programme>
-<programme start="20260713082000 +0000" stop="20260713101000 +0000" channel="beINSports1.qa@Indonesia"><title lang="id">LaLiga 2025/26 Goals Galore</title></programme>
-<programme start="20260713101000 +0000" stop="20260713121500 +0000" channel="beINSports1.qa@Indonesia"><title lang="id">LFCTV Specials 2025/26</title></programme>
-<programme start="20260713121500 +0000" stop="20260713124500 +0000" channel="beINSports1.qa@Indonesia"><title lang="id">LFCTV Classic: LIV Vs EVE</title></programme>
-<programme start="20260713124500 +0000" stop="20260713132000 +0000" channel="beINSports1.qa@Indonesia"><title lang="id">LFC Trending 2025/26, Ep 46</title><episode-num system="xmltv_ns">0.45.0/1</episode-num><episode-num system="onscreen">S01E46</episode-num></programme>
-<programme start="20260713132000 +0000" stop="20260713135000 +0000" channel="beINSports1.qa@Indonesia"><title lang="id">FIA World Rally Magazine Show</title></programme>
-<programme start="20260713135000 +0000" stop="20260713160000 +0000" channel="beINSports1.qa@Indonesia"><title lang="id">World Rugby Junior C&apos;ship (L)</title></programme>
-<programme start="20260713160000 +0000" stop="20260713162000 +0000" channel="beINSports1.qa@Indonesia"><title lang="id">LaLiga Goals Galore 2024/25</title></programme>
-<programme start="20260713162000 +0000" stop="20260713183000 +0000" channel="beINSports1.qa@Indonesia"><title lang="id">World Rugby Junior C&apos;ship (L)</title></programme>
 <programme start="20260711173000 +0000" stop="20260711192000 +0000" channel="beINSports2.qa@MENA"><title lang="id">DTM eSports Championship (L)</title></programme>
 <programme start="20260711192000 +0000" stop="20260711195500 +0000" channel="beINSports2.qa@MENA"><title lang="id">Premier Padel Highlights 2026</title></programme>
 <programme start="20260711195500 +0000" stop="20260711212500 +0000" channel="beINSports2.qa@MENA"><title lang="id">Premier Padel 2026: Brussels</title></programme>
@@ -1795,6 +1677,23 @@
 <programme start="20260713121700 +0000" stop="20260713140300 +0000" channel="CinemachiXtra.uk@SD"><title lang="id">Arctic Blast</title></programme>
 <programme start="20260713140300 +0000" stop="20260713160800 +0000" channel="CinemachiXtra.uk@SD"><title lang="id">Sinister Tales: The Haunting</title></programme>
 <programme start="20260713160800 +0000" stop="20260713171800 +0000" channel="CinemachiXtra.uk@SD"><title lang="id">Bumbling Ballerina</title></programme>
+<programme start="20260712095500 +0000" stop="20260712121000 +0000" channel="CinemaxAsia.sg@SD"><title lang="en">Indictment: The McMartin Trial</title></programme>
+<programme start="20260712121000 +0000" stop="20260712140000 +0000" channel="CinemaxAsia.sg@SD"><title lang="en">Run All Night</title></programme>
+<programme start="20260712140000 +0000" stop="20260712155500 +0000" channel="CinemaxAsia.sg@SD"><title lang="en">Unknown</title></programme>
+<programme start="20260712155500 +0000" stop="20260712182500 +0000" channel="CinemaxAsia.sg@SD"><title lang="en">Pulp Fiction</title></programme>
+<programme start="20260712155500 +0000" stop="20260712182500 +0000" channel="CinemaxAsia.sg@SD"><title lang="en">Pulp Fiction</title></programme>
+<programme start="20260712182500 +0000" stop="20260712202000 +0000" channel="CinemaxAsia.sg@SD"><title lang="en">Depravity</title></programme>
+<programme start="20260712202000 +0000" stop="20260712220500 +0000" channel="CinemaxAsia.sg@SD"><title lang="en">Dirty Angels</title></programme>
+<programme start="20260712220500 +0000" stop="20260713001500 +0000" channel="CinemaxAsia.sg@SD"><title lang="en">61*</title></programme>
+<programme start="20260713001500 +0000" stop="20260713021000 +0000" channel="CinemaxAsia.sg@SD"><title lang="en">Us</title></programme>
+<programme start="20260713021000 +0000" stop="20260713033500 +0000" channel="CinemaxAsia.sg@SD"><title lang="en">Eurotrip</title></programme>
+<programme start="20260713033500 +0000" stop="20260713052500 +0000" channel="CinemaxAsia.sg@SD"><title lang="en">Wanted</title></programme>
+<programme start="20260713052500 +0000" stop="20260713074000 +0000" channel="CinemaxAsia.sg@SD"><title lang="en">The Matrix Reloaded</title></programme>
+<programme start="20260713074000 +0000" stop="20260713102500 +0000" channel="CinemaxAsia.sg@SD"><title lang="en">Path To War</title></programme>
+<programme start="20260713102500 +0000" stop="20260713121000 +0000" channel="CinemaxAsia.sg@SD"><title lang="en">The Truman Show</title></programme>
+<programme start="20260713121000 +0000" stop="20260713140000 +0000" channel="CinemaxAsia.sg@SD"><title lang="en">Unknown</title></programme>
+<programme start="20260713140000 +0000" stop="20260713154500 +0000" channel="CinemaxAsia.sg@SD"><title lang="en">The Last Gunfight</title></programme>
+<programme start="20260713154500 +0000" stop="20260713174000 +0000" channel="CinemaxAsia.sg@SD"><title lang="en">Depravity</title></programme>
 <programme start="20260711170000 +0000" stop="20260711173000 +0000" channel="CNA.sg@SD"><title lang="id">Money Mind, Ep 11</title><episode-num system="xmltv_ns">0.10.0/1</episode-num><episode-num system="onscreen">S01E11</episode-num></programme>
 <programme start="20260711173000 +0000" stop="20260711180000 +0000" channel="CNA.sg@SD"><title lang="id">Sour, Salty &amp; Alive, Ep 1</title><episode-num system="xmltv_ns">0.0.0/1</episode-num><episode-num system="onscreen">S01E01</episode-num></programme>
 <programme start="20260711180000 +0000" stop="20260711183000 +0000" channel="CNA.sg@SD"><title lang="id">Singapore Tonight</title></programme>
@@ -2774,6 +2673,129 @@
 <programme start="20260713133000 +0000" stop="20260713153000 +0000" channel="GTV.id@SD"><title lang="id">Megasnake</title></programme>
 <programme start="20260713153000 +0000" stop="20260713163000 +0000" channel="GTV.id@SD"><title lang="id">Buried Thruths And Broken Trust</title></programme>
 <programme start="20260713163000 +0000" stop="20260713183000 +0000" channel="GTV.id@SD"><title lang="id">1001 Kisah</title></programme>
+<programme start="20260712105000 +0000" stop="20260712130000 +0000" channel="HBOAsia.sg@SD"><title lang="en">Song Sung Blue</title></programme>
+<programme start="20260712130000 +0000" stop="20260712143500 +0000" channel="HBOAsia.sg@SD"><title lang="en">Armor</title></programme>
+<programme start="20260712143500 +0000" stop="20260712162500 +0000" channel="HBOAsia.sg@SD"><title lang="en">Novocaine</title></programme>
+<programme start="20260712143500 +0000" stop="20260712162500 +0000" channel="HBOAsia.sg@SD"><title lang="en">Novocaine</title></programme>
+<programme start="20260712162500 +0000" stop="20260712181000 +0000" channel="HBOAsia.sg@SD"><title lang="en">Five Nights At Freddy&apos;s 2</title></programme>
+<programme start="20260712162500 +0000" stop="20260712181000 +0000" channel="HBOAsia.sg@SD"><title lang="en">Five Nights At Freddy&apos;s 2</title></programme>
+<programme start="20260712181000 +0000" stop="20260712195500 +0000" channel="HBOAsia.sg@SD"><title lang="en">Death Of A Unicorn</title></programme>
+<programme start="20260712195500 +0000" stop="20260712212500 +0000" channel="HBOAsia.sg@SD"><title lang="en">Him</title></programme>
+<programme start="20260712212500 +0000" stop="20260712225500 +0000" channel="HBOAsia.sg@SD"><title lang="en">The Secret Life Of Pets 2</title></programme>
+<programme start="20260712225500 +0000" stop="20260713004000 +0000" channel="HBOAsia.sg@SD"><title lang="en">A Christmas Story Christmas</title></programme>
+<programme start="20260713004000 +0000" stop="20260713021000 +0000" channel="HBOAsia.sg@SD"><title lang="en">Despicable Me 3</title></programme>
+<programme start="20260713021000 +0000" stop="20260713034000 +0000" channel="HBOAsia.sg@SD"><title lang="en">Bodyguard Of Lies</title></programme>
+<programme start="20260713034000 +0000" stop="20260713051500 +0000" channel="HBOAsia.sg@SD"><title lang="en">Down To You</title></programme>
+<programme start="20260713051500 +0000" stop="20260713073000 +0000" channel="HBOAsia.sg@SD"><title lang="en">Song Sung Blue</title></programme>
+<programme start="20260713073000 +0000" stop="20260713090500 +0000" channel="HBOAsia.sg@SD"><title lang="en">Anchorman: The Legend Of Ron Burgundy</title></programme>
+<programme start="20260713090500 +0000" stop="20260713103500 +0000" channel="HBOAsia.sg@SD"><title lang="en">The Spongebob Squarepants Movie</title></programme>
+<programme start="20260713103500 +0000" stop="20260713122500 +0000" channel="HBOAsia.sg@SD"><title lang="en">Novocaine</title></programme>
+<programme start="20260713122500 +0000" stop="20260713140000 +0000" channel="HBOAsia.sg@SD"><title lang="en">Sully</title></programme>
+<programme start="20260713140000 +0000" stop="20260713150000 +0000" channel="HBOAsia.sg@SD"><title lang="en">House Of The Dragon S3E4</title></programme>
+<programme start="20260713150000 +0000" stop="20260713170000 +0000" channel="HBOAsia.sg@SD"><title lang="en">Crazy, Stupid, Love</title></programme>
+<programme start="20260712110000 +0000" stop="20260712132500 +0000" channel="HBOFamilyAsia.sg@SD"><title lang="en">Harry Potter And The Deathly Hallows - Part 1</title></programme>
+<programme start="20260712132500 +0000" stop="20260712153500 +0000" channel="HBOFamilyAsia.sg@SD"><title lang="en">Harry Potter And The Deathly Hallows - Part 2</title></programme>
+<programme start="20260712153500 +0000" stop="20260712155000 +0000" channel="HBOFamilyAsia.sg@SD"><title lang="en">The Heroic Quest Of The Valiant Prince Ivandoe S2E8 -The Prince And The Playdate Part 2</title></programme>
+<programme start="20260712155000 +0000" stop="20260712160200 +0000" channel="HBOFamilyAsia.sg@SD"><title lang="en">The Heroic Quest Of The Valiant Prince Ivandoe S3E1 -The Prince And The Legendary Rabbit Hood</title></programme>
+<programme start="20260712155000 +0000" stop="20260712160200 +0000" channel="HBOFamilyAsia.sg@SD"><title lang="en">The Heroic Quest Of The Valiant Prince Ivandoe S3E1 -The Prince And The Legendary Rabbit Hood</title></programme>
+<programme start="20260712160200 +0000" stop="20260712161300 +0000" channel="HBOFamilyAsia.sg@SD"><title lang="en">The Heroic Quest Of The Valiant Prince Ivandoe S3E2 -The Prince And The Yucky Duckling</title></programme>
+<programme start="20260712160200 +0000" stop="20260712161300 +0000" channel="HBOFamilyAsia.sg@SD"><title lang="en">The Heroic Quest Of The Valiant Prince Ivandoe S3E2 -The Prince And The Yucky Duckling</title></programme>
+<programme start="20260712161300 +0000" stop="20260712162500 +0000" channel="HBOFamilyAsia.sg@SD"><title lang="en">The Heroic Quest Of The Valiant Prince Ivandoe S3E3 -The Prince And The Unruly Royal</title></programme>
+<programme start="20260712161300 +0000" stop="20260712162500 +0000" channel="HBOFamilyAsia.sg@SD"><title lang="en">The Heroic Quest Of The Valiant Prince Ivandoe S3E3 -The Prince And The Unruly Royal</title></programme>
+<programme start="20260712162500 +0000" stop="20260712163700 +0000" channel="HBOFamilyAsia.sg@SD"><title lang="en">The Heroic Quest Of The Valiant Prince Ivandoe S3E4 -The Prince And The Show-Off Stallion</title></programme>
+<programme start="20260712162500 +0000" stop="20260712163700 +0000" channel="HBOFamilyAsia.sg@SD"><title lang="en">The Heroic Quest Of The Valiant Prince Ivandoe S3E4 -The Prince And The Show-Off Stallion</title></programme>
+<programme start="20260712163700 +0000" stop="20260712164900 +0000" channel="HBOFamilyAsia.sg@SD"><title lang="en">The Heroic Quest Of The Valiant Prince Ivandoe S3E5 -The Prince And The Dark Lord Of Moletown</title></programme>
+<programme start="20260712164900 +0000" stop="20260712170000 +0000" channel="HBOFamilyAsia.sg@SD"><title lang="en">The Heroic Quest Of The Valiant Prince Ivandoe S3E6 -The Prince And The Squire-Off</title></programme>
+<programme start="20260712170000 +0000" stop="20260712171200 +0000" channel="HBOFamilyAsia.sg@SD"><title lang="en">The Heroic Quest Of The Valiant Prince Ivandoe S3E7 -The Prince And The Kissy Curse</title></programme>
+<programme start="20260712171200 +0000" stop="20260712173000 +0000" channel="HBOFamilyAsia.sg@SD"><title lang="en">The Heroic Quest Of The Valiant Prince Ivandoe S3E8 -The Prince And The Nutty Wedding</title></programme>
+<programme start="20260712173000 +0000" stop="20260712174200 +0000" channel="HBOFamilyAsia.sg@SD"><title lang="en">The Heroic Quest Of The Valiant Prince Ivandoe S4E1 -The Prince And The Golden Father</title></programme>
+<programme start="20260712174200 +0000" stop="20260712175400 +0000" channel="HBOFamilyAsia.sg@SD"><title lang="en">The Heroic Quest Of The Valiant Prince Ivandoe S4E2 -The Prince And The Birthday Bluesies</title></programme>
+<programme start="20260712175400 +0000" stop="20260712180600 +0000" channel="HBOFamilyAsia.sg@SD"><title lang="en">The Heroic Quest Of The Valiant Prince Ivandoe S4E3 -The Prince And The Chosen One</title></programme>
+<programme start="20260712180600 +0000" stop="20260712181800 +0000" channel="HBOFamilyAsia.sg@SD"><title lang="en">The Heroic Quest Of The Valiant Prince Ivandoe S4E4 -The Prince And The Tickly Torment</title></programme>
+<programme start="20260712181800 +0000" stop="20260712183000 +0000" channel="HBOFamilyAsia.sg@SD"><title lang="en">The Heroic Quest Of The Valiant Prince Ivandoe S4E5 -The Prince And The Ducky Day</title></programme>
+<programme start="20260712183000 +0000" stop="20260712184100 +0000" channel="HBOFamilyAsia.sg@SD"><title lang="en">The Heroic Quest Of The Valiant Prince Ivandoe S4E6 -The Prince And The All-Alone Gnome</title></programme>
+<programme start="20260712184100 +0000" stop="20260712185300 +0000" channel="HBOFamilyAsia.sg@SD"><title lang="en">The Heroic Quest Of The Valiant Prince Ivandoe S4E7 -The Prince And The Dreamy Ogre Part 1</title></programme>
+<programme start="20260712185300 +0000" stop="20260712191000 +0000" channel="HBOFamilyAsia.sg@SD"><title lang="en">The Heroic Quest Of The Valiant Prince Ivandoe S4E8 -The Prince And The Dreamy Ogre Part 2</title></programme>
+<programme start="20260712191000 +0000" stop="20260712192200 +0000" channel="HBOFamilyAsia.sg@SD"><title lang="en">The Heroic Quest Of The Valiant Prince Ivandoe S5E1 -The Prince And The Sassy Skaters</title></programme>
+<programme start="20260712192200 +0000" stop="20260712193400 +0000" channel="HBOFamilyAsia.sg@SD"><title lang="en">The Heroic Quest Of The Valiant Prince Ivandoe S5E2 -The Prince And The Fraudy Lord</title></programme>
+<programme start="20260712193400 +0000" stop="20260712194500 +0000" channel="HBOFamilyAsia.sg@SD"><title lang="en">The Heroic Quest Of The Valiant Prince Ivandoe S5E3 -The Prince And The Lonely Trollstress</title></programme>
+<programme start="20260712194500 +0000" stop="20260712195700 +0000" channel="HBOFamilyAsia.sg@SD"><title lang="en">The Heroic Quest Of The Valiant Prince Ivandoe S5E4 -The Prince And The Heroic Hooded Hermit</title></programme>
+<programme start="20260712195700 +0000" stop="20260712200900 +0000" channel="HBOFamilyAsia.sg@SD"><title lang="en">The Heroic Quest Of The Valiant Prince Ivandoe S5E5 -The Prince And The Foggy Bog Lady</title></programme>
+<programme start="20260712200900 +0000" stop="20260712202100 +0000" channel="HBOFamilyAsia.sg@SD"><title lang="en">The Heroic Quest Of The Valiant Prince Ivandoe S5E6 -The Prince And The Three-Headed Knight</title></programme>
+<programme start="20260712202100 +0000" stop="20260712203300 +0000" channel="HBOFamilyAsia.sg@SD"><title lang="en">The Heroic Quest Of The Valiant Prince Ivandoe S5E7 -The Prince And The Doomy Loom Of Destiny</title></programme>
+<programme start="20260712203300 +0000" stop="20260712205000 +0000" channel="HBOFamilyAsia.sg@SD"><title lang="en">The Heroic Quest Of The Valiant Prince Ivandoe S5E8 -The Prince And The Scrawny Squire</title></programme>
+<programme start="20260712205000 +0000" stop="20260712211000 +0000" channel="HBOFamilyAsia.sg@SD"><title lang="en">St. Denis Medical S1E4 -Salamat You Too</title></programme>
+<programme start="20260712211000 +0000" stop="20260712213500 +0000" channel="HBOFamilyAsia.sg@SD"><title lang="en">St. Denis Medical S1E5 -A Peanut And Caramel-Filled Miracle</title></programme>
+<programme start="20260712213500 +0000" stop="20260712230500 +0000" channel="HBOFamilyAsia.sg@SD"><title lang="en">An American Girl: Chrissa Stands Strong</title></programme>
+<programme start="20260712230500 +0000" stop="20260712231500 +0000" channel="HBOFamilyAsia.sg@SD"><title lang="en">Ben 10 S3E36 -The Night Ben Tennyson Came To Town</title></programme>
+<programme start="20260712231500 +0000" stop="20260712232500 +0000" channel="HBOFamilyAsia.sg@SD"><title lang="en">Ben 10 S3E37 -And Xingo Was His Name-O</title></programme>
+<programme start="20260712232500 +0000" stop="20260712233500 +0000" channel="HBOFamilyAsia.sg@SD"><title lang="en">Ben 10 S3E38 -Fear In The Family</title></programme>
+<programme start="20260712233500 +0000" stop="20260712234500 +0000" channel="HBOFamilyAsia.sg@SD"><title lang="en">Ben 10 S3E39 -Roundabout, Part 2</title></programme>
+<programme start="20260712234500 +0000" stop="20260713000500 +0000" channel="HBOFamilyAsia.sg@SD"><title lang="en">Ben 10 S3E40 -Roundabout, Part 1</title></programme>
+<programme start="20260713000500 +0000" stop="20260713005000 +0000" channel="HBOFamilyAsia.sg@SD"><title lang="en">Ruby And The Well S1E8 -I Wish I Could Find My Family</title></programme>
+<programme start="20260713005000 +0000" stop="20260713010200 +0000" channel="HBOFamilyAsia.sg@SD"><title lang="en">The Heroic Quest Of The Valiant Prince Ivandoe S5E4 -The Prince And The Heroic Hooded Hermit</title></programme>
+<programme start="20260713010200 +0000" stop="20260713011400 +0000" channel="HBOFamilyAsia.sg@SD"><title lang="en">The Heroic Quest Of The Valiant Prince Ivandoe S5E5 -The Prince And The Foggy Bog Lady</title></programme>
+<programme start="20260713011400 +0000" stop="20260713013500 +0000" channel="HBOFamilyAsia.sg@SD"><title lang="en">The Heroic Quest Of The Valiant Prince Ivandoe S5E6 -The Prince And The Three-Headed Knight</title></programme>
+<programme start="20260713013500 +0000" stop="20260713015700 +0000" channel="HBOFamilyAsia.sg@SD"><title lang="en">The Life &amp; Times Of Juniper Lee S2E7 -Bada Bing Bada Boomfist</title></programme>
+<programme start="20260713015700 +0000" stop="20260713022500 +0000" channel="HBOFamilyAsia.sg@SD"><title lang="en">The Life &amp; Times Of Juniper Lee S2E8 -Adventures In Babysitting</title></programme>
+<programme start="20260713022500 +0000" stop="20260713045000 +0000" channel="HBOFamilyAsia.sg@SD"><title lang="en">Harry Potter And The Deathly Hallows - Part 1</title></programme>
+<programme start="20260713045000 +0000" stop="20260713070000 +0000" channel="HBOFamilyAsia.sg@SD"><title lang="en">Harry Potter And The Deathly Hallows - Part 2</title></programme>
+<programme start="20260713070000 +0000" stop="20260713071000 +0000" channel="HBOFamilyAsia.sg@SD"><title lang="en">Ben 10 S3E41 -Xingo Nation</title></programme>
+<programme start="20260713071000 +0000" stop="20260713072000 +0000" channel="HBOFamilyAsia.sg@SD"><title lang="en">Ben 10 S3E42 -Heads Of The Family</title></programme>
+<programme start="20260713072000 +0000" stop="20260713073000 +0000" channel="HBOFamilyAsia.sg@SD"><title lang="en">Ben 10 S3E43 -Bodyguard</title></programme>
+<programme start="20260713073000 +0000" stop="20260713074000 +0000" channel="HBOFamilyAsia.sg@SD"><title lang="en">Ben 10 S3E44 -Wheels Of Fortune</title></programme>
+<programme start="20260713074000 +0000" stop="20260713080000 +0000" channel="HBOFamilyAsia.sg@SD"><title lang="en">Ben 10 S3E45 -Heat Of The Moment</title></programme>
+<programme start="20260713080000 +0000" stop="20260713084500 +0000" channel="HBOFamilyAsia.sg@SD"><title lang="en">Ruby And The Well S1E9 -I Wish I Could Get Back At Emma</title></programme>
+<programme start="20260713084500 +0000" stop="20260713085700 +0000" channel="HBOFamilyAsia.sg@SD"><title lang="en">The Heroic Quest Of The Valiant Prince Ivandoe S1E1 -The Prince And The Valiant Quest</title></programme>
+<programme start="20260713085700 +0000" stop="20260713090900 +0000" channel="HBOFamilyAsia.sg@SD"><title lang="en">The Heroic Quest Of The Valiant Prince Ivandoe S1E2 -The Prince And The Chicken Of Doom</title></programme>
+<programme start="20260713090900 +0000" stop="20260713092100 +0000" channel="HBOFamilyAsia.sg@SD"><title lang="en">The Heroic Quest Of The Valiant Prince Ivandoe S1E3 -The Prince And The Sing-Songy Stag</title></programme>
+<programme start="20260713092100 +0000" stop="20260713093300 +0000" channel="HBOFamilyAsia.sg@SD"><title lang="en">The Heroic Quest Of The Valiant Prince Ivandoe S1E4 -The Prince And The Tears Of Triumph</title></programme>
+<programme start="20260713093300 +0000" stop="20260713095000 +0000" channel="HBOFamilyAsia.sg@SD"><title lang="en">The Heroic Quest Of The Valiant Prince Ivandoe S1E5 -The Prince And The Turnip Tricksters</title></programme>
+<programme start="20260713095000 +0000" stop="20260713101200 +0000" channel="HBOFamilyAsia.sg@SD"><title lang="en">The Life &amp; Times Of Juniper Lee S2E11 -Dog Show Afternoon</title></programme>
+<programme start="20260713101200 +0000" stop="20260713103400 +0000" channel="HBOFamilyAsia.sg@SD"><title lang="en">The Life &amp; Times Of Juniper Lee S2E12 -Dream Date</title></programme>
+<programme start="20260713103400 +0000" stop="20260713110000 +0000" channel="HBOFamilyAsia.sg@SD"><title lang="en">The Life &amp; Times Of Juniper Lee S2E13 -Party Monsters</title></programme>
+<programme start="20260713110000 +0000" stop="20260713113000 +0000" channel="HBOFamilyAsia.sg@SD"><title lang="en">The Life &amp; Times Of Juniper Lee S3E1 -Who&apos;s Your Daddy?</title></programme>
+<programme start="20260713113000 +0000" stop="20260713133500 +0000" channel="HBOFamilyAsia.sg@SD"><title lang="en">Superman</title></programme>
+<programme start="20260713133500 +0000" stop="20260713140000 +0000" channel="HBOFamilyAsia.sg@SD"><title lang="en">Lego Jurassic Park: The Unofficial Retelling</title></programme>
+<programme start="20260713140000 +0000" stop="20260713142500 +0000" channel="HBOFamilyAsia.sg@SD"><title lang="en">St. Denis Medical S1E6 -Ho-Ho-Hollo</title></programme>
+<programme start="20260713142500 +0000" stop="20260713163000 +0000" channel="HBOFamilyAsia.sg@SD"><title lang="en">The Lost World: Jurassic Park</title></programme>
+<programme start="20260712112500 +0000" stop="20260712133000 +0000" channel="HBOHitsAsia.sg@SD"><title lang="en">Oblivion</title></programme>
+<programme start="20260712133000 +0000" stop="20260712150000 +0000" channel="HBOHitsAsia.sg@SD"><title lang="en">Jurassic Park III</title></programme>
+<programme start="20260712150000 +0000" stop="20260712171500 +0000" channel="HBOHitsAsia.sg@SD"><title lang="en">Wicked: For Good</title></programme>
+<programme start="20260712150000 +0000" stop="20260712171500 +0000" channel="HBOHitsAsia.sg@SD"><title lang="en">Wicked: For Good</title></programme>
+<programme start="20260712171500 +0000" stop="20260712192500 +0000" channel="HBOHitsAsia.sg@SD"><title lang="en">The Wizard Of Lies</title></programme>
+<programme start="20260712192500 +0000" stop="20260712205000 +0000" channel="HBOHitsAsia.sg@SD"><title lang="en">All The Devils Are Here</title></programme>
+<programme start="20260712205000 +0000" stop="20260712223500 +0000" channel="HBOHitsAsia.sg@SD"><title lang="en">Rango</title></programme>
+<programme start="20260712223500 +0000" stop="20260713001500 +0000" channel="HBOHitsAsia.sg@SD"><title lang="en">Caddo Lake</title></programme>
+<programme start="20260713001500 +0000" stop="20260713023000 +0000" channel="HBOHitsAsia.sg@SD"><title lang="en">Wicked: For Good</title></programme>
+<programme start="20260713023000 +0000" stop="20260713040000 +0000" channel="HBOHitsAsia.sg@SD"><title lang="en">The Ant Bully</title></programme>
+<programme start="20260713040000 +0000" stop="20260713060000 +0000" channel="HBOHitsAsia.sg@SD"><title lang="en">Oblivion</title></programme>
+<programme start="20260713060000 +0000" stop="20260713074500 +0000" channel="HBOHitsAsia.sg@SD"><title lang="en">Rango</title></programme>
+<programme start="20260713074500 +0000" stop="20260713081500 +0000" channel="HBOHitsAsia.sg@SD"><title lang="en">Hollywood On Set S1E1175</title></programme>
+<programme start="20260713081500 +0000" stop="20260713094500 +0000" channel="HBOHitsAsia.sg@SD"><title lang="en">Space Jam</title></programme>
+<programme start="20260713094500 +0000" stop="20260713111500 +0000" channel="HBOHitsAsia.sg@SD"><title lang="en">The Ant Bully</title></programme>
+<programme start="20260713111500 +0000" stop="20260713132500 +0000" channel="HBOHitsAsia.sg@SD"><title lang="en">The Wizard Of Lies</title></programme>
+<programme start="20260713132500 +0000" stop="20260713150000 +0000" channel="HBOHitsAsia.sg@SD"><title lang="en">Spell</title></programme>
+<programme start="20260713150000 +0000" stop="20260713164500 +0000" channel="HBOHitsAsia.sg@SD"><title lang="en">Caddo Lake</title></programme>
+<programme start="20260712113500 +0000" stop="20260712140000 +0000" channel="HBOSignatureAsia.sg@SD"><title lang="en">In The Heights</title></programme>
+<programme start="20260712140000 +0000" stop="20260712143000 +0000" channel="HBOSignatureAsia.sg@SD"><title lang="en">Based On A True Story S1E3 -Who&apos;s Next</title></programme>
+<programme start="20260712143000 +0000" stop="20260712145500 +0000" channel="HBOSignatureAsia.sg@SD"><title lang="en">Based On A True Story S1E4 -The Survivor</title></programme>
+<programme start="20260712145500 +0000" stop="20260712164500 +0000" channel="HBOSignatureAsia.sg@SD"><title lang="en">Black Phone 2</title></programme>
+<programme start="20260712145500 +0000" stop="20260712164500 +0000" channel="HBOSignatureAsia.sg@SD"><title lang="en">Black Phone 2</title></programme>
+<programme start="20260712164500 +0000" stop="20260712184500 +0000" channel="HBOSignatureAsia.sg@SD"><title lang="en">The Alto Knights</title></programme>
+<programme start="20260712184500 +0000" stop="20260712220000 +0000" channel="HBOSignatureAsia.sg@SD"><title lang="en">The Brutalist</title></programme>
+<programme start="20260712220000 +0000" stop="20260712234000 +0000" channel="HBOSignatureAsia.sg@SD"><title lang="en">John Mccain: For Whom The Bell Tolls</title></programme>
+<programme start="20260712234000 +0000" stop="20260713011500 +0000" channel="HBOSignatureAsia.sg@SD"><title lang="en">Muhammad Ali&apos;s Greatest Fight</title></programme>
+<programme start="20260713011500 +0000" stop="20260713021500 +0000" channel="HBOSignatureAsia.sg@SD"><title lang="en">The Leftovers S3E3 -Crazy Whitefella Thinking</title></programme>
+<programme start="20260713021500 +0000" stop="20260713024500 +0000" channel="HBOSignatureAsia.sg@SD"><title lang="en">Hollywood On Set S1E1175</title></programme>
+<programme start="20260713024500 +0000" stop="20260713042000 +0000" channel="HBOSignatureAsia.sg@SD"><title lang="en">The Astronaut</title></programme>
+<programme start="20260713042000 +0000" stop="20260713062000 +0000" channel="HBOSignatureAsia.sg@SD"><title lang="en">Game Change</title></programme>
+<programme start="20260713062000 +0000" stop="20260713081000 +0000" channel="HBOSignatureAsia.sg@SD"><title lang="en">O.G.</title></programme>
+<programme start="20260713081000 +0000" stop="20260713103500 +0000" channel="HBOSignatureAsia.sg@SD"><title lang="en">In The Heights</title></programme>
+<programme start="20260713103500 +0000" stop="20260713122500 +0000" channel="HBOSignatureAsia.sg@SD"><title lang="en">Nothing Left Unsaid: Gloria Vanderbilt &amp; Anderson Cooper</title></programme>
+<programme start="20260713122500 +0000" stop="20260713140000 +0000" channel="HBOSignatureAsia.sg@SD"><title lang="en">46270</title></programme>
+<programme start="20260713140000 +0000" stop="20260713162000 +0000" channel="HBOSignatureAsia.sg@SD"><title lang="en">Anchorman 2: The Legend Continues</title></programme>
+<programme start="20260713162000 +0000" stop="20260713174000 +0000" channel="HBOSignatureAsia.sg@SD"><title lang="en">Liberty: Mother Of Exiles</title></programme>
 <programme start="20260711173500 +0000" stop="20260711183000 +0000" channel="HistoryAsia.us@SD"><title lang="id">Swamp People S15, Ep 13</title><episode-num system="xmltv_ns">14.12.0/1</episode-num><episode-num system="onscreen">S15E13</episode-num></programme>
 <programme start="20260711183000 +0000" stop="20260711192500 +0000" channel="HistoryAsia.us@SD"><title lang="id">Curse Of Oak Island S12, Ep 19</title><episode-num system="xmltv_ns">11.18.0/1</episode-num><episode-num system="onscreen">S12E19</episode-num></programme>
 <programme start="20260711192500 +0000" stop="20260711202000 +0000" channel="HistoryAsia.us@SD"><title lang="id">Ancient Aliens S16, Ep 252</title><episode-num system="xmltv_ns">15.251.0/1</episode-num><episode-num system="onscreen">S16E252</episode-num></programme>
